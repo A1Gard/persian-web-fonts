@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'mitra';
+    src: url('../fonts/bmitra.eot');
+    src: url('../fonts/bmitra.eot') format('embedded-opentype'),
+         url('../fonts/bmitra.woff') format('woff'),
+         url('../fonts/bmitra.ttf') format('truetype'),
+         url('../fonts/bmitra.svg#mitra') format('svg');
+}
