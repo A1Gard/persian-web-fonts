@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'davat';
+    src: url('../fonts/BDavat.eot');
+    src: url('../fonts/BDavat.eot') format('embedded-opentype'),
+         url('../fonts/BDavat.woff2') format('woff2'),
+         url('../fonts/BDavat.woff') format('woff'),
+         url('../fonts/BDavat.ttf') format('truetype'),
+         url('../fonts/BDavat.svg#davat') format('svg');
+}
