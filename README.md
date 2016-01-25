@@ -11,8 +11,9 @@ Persian web fonts for use in sites.
 * mitra
 * titr
 * yekan
+* dinar
 
-Last update:  14-nov-2015
+Last update:  25-Jan-2016
 
 Kind regards 
 

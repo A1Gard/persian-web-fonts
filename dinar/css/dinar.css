@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'dinar';
+    src: url('../fonts/dinar.eot');
+    src: url('../fonts/dinar.eot') format('embedded-opentype'),
+         url('../fonts/dinar.woff2') format('woff2'),
+         url('../fonts/dinar.woff') format('woff'),
+         url('../fonts/dinar.ttf') format('truetype'),
+         url('../fonts/dinar.svg#dinar') format('svg');
+}
