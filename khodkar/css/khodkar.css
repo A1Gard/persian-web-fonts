@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'khodkar';
+    src: url('../fonts/khodkar.eot');
+    src: url('../fonts/khodkar.eot') format('embedded-opentype'),
+         url('../fonts/khodkar.woff2') format('woff2'),
+         url('../fonts/khodkar.woff') format('woff'),
+         url('../fonts/khodkar.ttf') format('truetype'),
+         url('../fonts/khodkar.svg#khodkar') format('svg');
+}

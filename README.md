@@ -11,9 +11,11 @@ Persian web fonts for use in sites.
 * mitra
 * titr
 * yekan
+* davat nevis
 * dinar
+* khodkar
 
-Last update:  25-Jan-2016
+Last update:  26-Jan-2016
 
 Kind regards 
 
