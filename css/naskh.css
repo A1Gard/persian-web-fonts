@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'naskh';
+    src: url('../fonts/naskh.eot');
+    src: url('../fonts/naskh.eot') format('embedded-opentype'),
+         url('../fonts/naskh.woff2') format('woff2'),
+         url('../fonts/naskh.woff') format('woff'),
+         url('../fonts/naskh.ttf') format('truetype'),
+         url('../fonts/naskh.svg#naskh') format('svg');
+}
