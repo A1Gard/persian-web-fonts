@@ -15,6 +15,7 @@ Persian web fonts for use in sites.
 * dinar
 * khodkar
 * naskh
+* badr
 
 Last update:  31-Jan-2016
 

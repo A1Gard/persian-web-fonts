@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'badr';
+    src: url('../fonts/badr.eot');
+    src: url('../fonts/badr.eot') format('embedded-opentype'),
+         url('../fonts/badr.woff2') format('woff2'),
+         url('../fonts/badr.woff') format('woff'),
+         url('../fonts/badr.ttf') format('truetype'),
+         url('../fonts/badr.svg#badr') format('svg');
+}
