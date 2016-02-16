@@ -16,6 +16,7 @@ Persian web fonts for use in sites.
 * khodkar
 * naskh
 * badr
+* tabassom
 
 Last update:  31-Jan-2016
 

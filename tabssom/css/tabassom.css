@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'tabassom';
+    src: url('../fonts/tabassom.eot');
+    src: url('../fonts/tabassom.eot') format('embedded-opentype'),
+         url('../fonts/tabassom.woff2') format('woff2'),
+         url('../fonts/tabassom.woff') format('woff'),
+         url('../fonts/tabassom.ttf') format('truetype'),
+         url('../fonts/tabassom.svg#tabassom') format('svg');
+}
