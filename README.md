@@ -17,8 +17,12 @@ Persian web fonts for use in sites.
 * naskh
 * badr
 * tabassom
+* morvarid
+* shafigh
+* nazanin
 
-Last update:  31-Jan-2016
+
+Last update:  17-Feb-2016
 
 Kind regards 
 
