@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'nazanin';
+    src: url('../fonts/nazanin.eot');
+    src: url('../fonts/nazanin.eot') format('embedded-opentype'),
+         url('../fonts/nazanin.woff2') format('woff2'),
+         url('../fonts/nazanin.woff') format('woff'),
+         url('../fonts/nazanin.ttf') format('truetype'),
+         url('../fonts/nazanin.svg#nazanin') format('svg');
+}
