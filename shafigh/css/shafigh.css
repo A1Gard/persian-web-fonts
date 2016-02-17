@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'shafigh';
+    src: url('../fonts/shafigh.eot');
+    src: url('../fonts/shafigh.eot') format('embedded-opentype'),
+         url('../fonts/shafigh.woff2') format('woff2'),
+         url('../fonts/shafigh.woff') format('woff'),
+         url('../fonts/shafigh.ttf') format('truetype'),
+         url('../fonts/shafigh.svg#shafigh') format('svg');
+}
