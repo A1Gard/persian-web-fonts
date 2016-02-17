@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'morvarid';
+    src: url('../fonts/morvarid.eot');
+    src: url('../fonts/morvarid.eot') format('embedded-opentype'),
+         url('../fonts/morvarid.woff2') format('woff2'),
+         url('../fonts/morvarid.woff') format('woff'),
+         url('../fonts/morvarid.ttf') format('truetype'),
+         url('../fonts/morvarid.svg#morvarid') format('svg');
+}
