@@ -20,9 +20,10 @@ Persian web fonts for use in sites.
 * morvarid
 * shafigh
 * nazanin
+* iran nastaliq
 
 
-Last update:  17-Feb-2016
+Last update:  19-Feb-2016
 
 Kind regards 
 
