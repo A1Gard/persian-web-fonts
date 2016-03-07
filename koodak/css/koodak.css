@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'koodak';
+    src: url('../fonts/koodak.eot');
+    src: url('../fonts/koodak.eot') format('embedded-opentype'),
+         url('../fonts/koodak.woff2') format('woff2'),
+         url('../fonts/koodak.woff') format('woff'),
+         url('../fonts/koodak.ttf') format('truetype'),
+         url('../fonts/koodak.svg#koodak') format('svg');
+}
