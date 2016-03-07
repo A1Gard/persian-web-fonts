@@ -1,0 +1,9 @@
+@font-face {
+	font-family:"IranNastaliq";
+	src:url("../fonts/IranNastaliq.eot?") format("eot"),
+	url("../fonts/IranNastaliq.woff") format("woff"),
+	url("../fonts/IranNastaliq.ttf") format("truetype"),
+	url("../fonts/IranNastaliq.svg#IranNastaliq") format("svg");
+	font-weight:normal;
+	font-style:normal;
+}

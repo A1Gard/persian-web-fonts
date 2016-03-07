@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Jalal';
+    src: url('../fonts/BJalal.eot');
+    src: url('../fonts/BJalal.eot') format('embedded-opentype'),
+         url('../fonts/BJalal.woff2') format('woff2'),
+         url('../fonts/BJalal.woff') format('woff'),
+         url('../fonts/BJalal.ttf') format('truetype'),
+         url('../fonts/BJalal.svg#Jalal') format('svg');
+}

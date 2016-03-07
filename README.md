@@ -21,7 +21,8 @@ Persian web fonts for use in sites.
 * shafigh
 * nazanin
 * koodak
-
+* iran nastaliq
+* jalal
 
 Last update:  07-Mar-2016
 
