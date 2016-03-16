@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Arbaeen';
+    src: url('../fonts/Arbaeen.eot');
+    src: url('../fonts/Arbaeen.eot') format('embedded-opentype'),
+         url('../fonts/Arbaeen.woff2') format('woff2'),
+         url('../fonts/Arbaeen.woff') format('woff'),
+         url('../fonts/Arbaeen.ttf') format('truetype'),
+         url('../fonts/Arbaeen.svg#Arbaeen') format('svg');
+}

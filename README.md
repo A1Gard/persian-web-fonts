@@ -23,6 +23,7 @@ Persian web fonts for use in sites.
 * koodak
 * iran nastaliq
 * jalal
+* arbaeen
 
 Last update:  07-Mar-2016
 
