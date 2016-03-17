@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'BKamranRegular';
+    src: url('../fonts/kamran.eot');
+    src: url('../fonts/kamran.eot') format('embedded-opentype'),
+         url('../fonts/kamran.woff') format('woff'),
+         url('../fonts/kamran.ttf') format('truetype'),
+         url('../fonts/kamran.svg#BKamranRegular') format('svg');
+}
