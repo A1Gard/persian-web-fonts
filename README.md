@@ -24,8 +24,10 @@ Persian web fonts for use in sites.
 * iran nastaliq
 * jalal
 * arbaeen
+* kamran
+* IranSuns
 
-Last update:  07-Mar-2016
+Last update:  19-Mar-2016
 
 Kind regards 
 

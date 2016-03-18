@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'IranSuns';
+    src: url('../fonts/IranSuns.eot');
+    src: url('../fonts/IranSuns.eot') format('embedded-opentype'),
+         url('../fonts/IranSuns.woff2') format('woff2'),
+         url('../fonts/IranSuns.woff') format('woff'),
+         url('../fonts/IranSuns.ttf') format('truetype'),
+         url('../fonts/IranSuns.svg#IranSuns') format('svg');
+}
